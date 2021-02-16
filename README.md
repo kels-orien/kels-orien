@@ -4,7 +4,7 @@ I'm a Software Engineer and Content Creator, at the moment i work freelance and 
 
 I create technical content (on my [Blog](https://korien.hashnode.dev), build useful [open-source projects](https://github.com/kels-orien)
 
-- 📫 How to reach me: DM [@iambolajiayo](https://twitter.com/kels_orien)
+- 📫 How to reach me: DM [@kels-orien](https://twitter.com/kels_orien)
 
 
 
