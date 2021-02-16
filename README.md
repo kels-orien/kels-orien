@@ -10,7 +10,7 @@ I create technical content on my [Blog](https://korien.hashnode.dev), and build 
 
 ### Useful Links 🌻
 
-- [Personal website](https://https://korien.now.sh)
+- [Personal website](https://korien.now.sh)
 - [Blog](https://korien.hashnode.dev)
 - [GitHub](https://github.com/kels-orien)
 - [Twitter](https://twitter.com/kels_orien)
