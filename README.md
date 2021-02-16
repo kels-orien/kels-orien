@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**kels-orien/kels-orien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer and Content Creator, at the moment i work freelance and i enjoy sharing knowledge about Software Engineering, Javascript, and Web standards.
 
-Here are some ideas to get you started:
+I create technical content (on my [Blog](https://korien.hashnode.dev), build useful [open-source projects](https://github.com/kels-orien)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: DM [@iambolajiayo](https://twitter.com/kels_orien)
+
+
+
+### Useful Links 🌻
+
+- [Personal website](https://https://korien.now.sh)
+- [Blog](https://korien.hashnode.dev)
+- [GitHub](https://github.com/kels-orien)
+- [Twitter](https://twitter.com/kels_orien)
+- [LinkedIn](https://ng.linkedin.com/in/oghenekohwo-orien-45718326)
